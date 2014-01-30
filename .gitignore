@@ -1,3 +1,6 @@
 dev/iconmaker/node_modules
-.idea
+.idea/.name
+.idea/*.xml
+.idea/**/*.xml
+!Build_CKEditor.xml
 *.iml
