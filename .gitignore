@@ -1,1 +1,3 @@
 dev/iconmaker/node_modules
+.idea
+*.iml
