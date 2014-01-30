@@ -7,7 +7,7 @@
     <envs />
     <module name="ckeditor-dev" />
     <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dev/builder/build.sh" />
-    <option name="PARAMETERS" value="" />
+    <option name="PARAMETERS" value="-s" />
     <RunnerSettings RunnerId="Run" />
     <ConfigurationWrapper RunnerId="Run" />
     <method />
